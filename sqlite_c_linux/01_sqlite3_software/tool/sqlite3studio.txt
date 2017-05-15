@@ -1,0 +1,3 @@
+
+UTF8字符串（中文）的支持
+https://sqlitestudio.pl/index.rvt?act=download
