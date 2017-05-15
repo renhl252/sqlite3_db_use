@@ -6,7 +6,8 @@ MODULES = \
 	03_insert	\
 	04_select	\
 	05_update 	\
-	06_delete
+	06_delete	\
+	07_insert_bind
 
 test clean :
 	@ ErrModule="\n";  \

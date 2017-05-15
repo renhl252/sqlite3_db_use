@@ -1,0 +1,3 @@
+
+在01_sqlite3_software目录下执行my_sqlite_build.sh脚本，编译结果显示在当前目录下。
+
